@@ -18,6 +18,7 @@
     <!-- Top menu item -->
     <menuitem name="openacademy" id="menu_root"/>
     <!-- menu categories -->
+    
     <menuitem name="Courses" id="menu_course_top" parent="menu_root"/>
 
     <menuitem name="Courses" id="menu_course" parent="menu_course_top"
